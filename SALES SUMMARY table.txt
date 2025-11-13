@@ -1,0 +1,11 @@
+=== 🧾 SALES SUMMARY ===
+Total Quantity Sold: 57
+Total Revenue: ₹4,73,500.00
+
+=== 📦 PRODUCT-WISE SALES ===
+      product  total_quantity  total_revenue
+0      Laptop               5          350000
+1       Mouse              20           10000
+2    Keyboard              10           15000
+3      Monitor               7           84000
+4  Headphones              15           30000
